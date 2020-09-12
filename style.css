@@ -1,0 +1,74 @@
+*{margin: 0;padding: 0;outline: 0;}
+.wrapper {
+    width: 700px;
+    background: linear-gradient(45deg,#011226,#5c7e9e);
+    margin: 80px auto;
+}
+.wrapper h2 {
+    color: #fff;
+    text-align: center;
+    padding: 22px;
+    font-size: 24px;
+}
+.form {
+    width: 400px;
+    margin: 0 auto;
+    background: #000912;
+}
+.form .same {
+    width: 92%;
+    box-sizing: border-box;
+    margin: 10px 15px;
+    padding: 6px 149px;
+    color: #fff;
+    background: transparent;
+    border: 1px solid #999;
+    border-radius: 4px;
+}
+.form .repassword {
+    padding: 4px 127px;
+}
+p.terms {
+    color: #fff;
+    text-align: center;
+    margin: 13px 0;
+    font-size: 16px;
+}
+.btn {
+    width: 89%;
+    margin: 4px 19px;
+    padding: 4px 7px;
+    font-size: 17px;
+    text-transform: uppercase;
+    background: #16293A;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+}
+.icon{
+    position: relative;
+}
+p.follow {
+    color: #fff;
+    display: inline-block;
+    margin: 17px 88px;
+}
+.social {
+    position: absolute;
+    left: 183px;
+    top: 18px;
+}
+.social ul li {
+    list-style: none;
+    display: inline-block;
+   
+}
+.social ul li a {
+    color: #ffff;
+    text-decoration: none;
+}
+p.footer {
+    color: #fff;
+    padding: 36px 3px 17px 3px;
+    text-align: center;
+}
